@@ -6,4 +6,5 @@ body {
 .textthing {
   font-size: 20px;
   color: #fff;
+  align-text: center;
 }
